@@ -1,0 +1,18 @@
+Fitter Status : Successful - Thu Jul 02 15:22:32 2015
+Quartus II 64-Bit Version : 14.1.0 Build 186 12/03/2014 SJ Full Version
+Revision Name : CPU_Nios2
+Top-level Entity Name : Nios2CPU
+Family : MAX 10
+Device : 10M08SAE144C8GES
+Timing Models : Preliminary
+Total logic elements : 1,710 / 8,064 ( 21 % )
+    Total combinational functions : 1,618 / 8,064 ( 20 % )
+    Dedicated logic registers : 919 / 8,064 ( 11 % )
+Total registers : 919
+Total pins : 6 / 101 ( 6 % )
+Total virtual pins : 0
+Total memory bits : 273,408 / 387,072 ( 71 % )
+Embedded Multiplier 9-bit elements : 0 / 48 ( 0 % )
+Total PLLs : 0 / 1 ( 0 % )
+UFM blocks : 0 / 1 ( 0 % )
+ADC blocks : 0 / 1 ( 0 % )

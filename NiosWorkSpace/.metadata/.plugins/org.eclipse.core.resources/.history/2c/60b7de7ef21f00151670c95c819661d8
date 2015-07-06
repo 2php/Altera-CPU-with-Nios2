@@ -1,0 +1,20 @@
+
+/*这是第一个Nios2下的测试程序*/
+
+include "../inc/sopc.h"
+include <unistd.h>
+
+int main(void)
+{
+	int i;
+	
+	while(1)
+	{
+		for(i = 0; i < 4; i++)
+		{
+			LED->DATA = 1 << i;
+			usleep(100000);
+		}
+	}
+	retun 0;		
+}

@@ -1,0 +1,7 @@
+
+/*这是第一个Nios2下的测试程序*/
+
+include "../inc/sopc.h"
+include <unistd.h>
+
+
